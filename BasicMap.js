@@ -11,4 +11,5 @@ L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 L.marker([35.2176665,-80.831473],{
   title:"Hello From CPCC!!"
-}).addTo(map);
+}).bindPopup("Hello From CPCC!!")
+  .addTo(map);
