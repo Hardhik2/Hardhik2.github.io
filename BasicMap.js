@@ -18,7 +18,7 @@ L.marker([35.2176665,-80.831473],{
 <a href="https://www.cpcc.edu">Click Here to visit CPCC's Website</a><br>
 <iframe width="280" height="160" src="https://www.youtube.com/embed/wCyHWiYPiXU?si=YoXIW0tH59LCdBnu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
-<p>[URL:https://www.youtube.com/@centralpiedmontcommunityco39/videos]</p>
+<p>[URL:https://www.youtube.com/@centralpiedmont<br>communityco39/videos]</p>
 </center>
 `)
   .addTo(map);
